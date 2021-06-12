@@ -1,2 +1,2 @@
 # portfolio
-Portfolio website link:- https://thesurajkmr.github.io/portfolio/
+Portfolio website link:- https://thesurajkmr.github.io/thesurajkmr/
