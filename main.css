@@ -513,6 +513,8 @@ button:focus {
 .mb-light-yellow {
     background-color: #F4D653;
 }
+
+
 /* F4D653 */
 /* 43A84D */
 
@@ -521,6 +523,11 @@ button:focus {
 
 
 /*Percentage Classes */
+
+.hundred-percent {
+    height: inherit;
+    width: 100%;
+}
 
 .eighty-five-percent {
     height: inherit;
